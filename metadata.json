@@ -1,0 +1,6 @@
+{
+  "name": "Healthyfy",
+  "description": "AI-powered personal and family health companion: medical report analysis, family health records, fitness tracking, doctor discovery, and personalized AI diet planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
